@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringNetForCoreConsole", "SpringNetForAspNetMVC\SpringNetForCoreConsole.csproj", "{04F6232A-1F06-4C80-ABDB-8698E7957BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringNetForAspNetMVC", "SpringNetForAspNetMVC\SpringNetForAspNetMVC.csproj", "{06FF5C39-B77B-4BD3-82CC-6AB017228618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F6232A-1F06-4C80-ABDB-8698E7957BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F6232A-1F06-4C80-ABDB-8698E7957BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F6232A-1F06-4C80-ABDB-8698E7957BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F6232A-1F06-4C80-ABDB-8698E7957BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FF5C39-B77B-4BD3-82CC-6AB017228618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FF5C39-B77B-4BD3-82CC-6AB017228618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FF5C39-B77B-4BD3-82CC-6AB017228618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FF5C39-B77B-4BD3-82CC-6AB017228618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1EE227-D2F3-476E-8EAF-549474F1E5B3}
+	EndGlobalSection
+EndGlobal
